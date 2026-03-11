@@ -1,5 +1,5 @@
 ---
-name: ACX-YT-Script-Writer
+name: acx-yt-script-writer
 description: Master orchestrator for the ACX YouTube Script Writing System. Runs a 5-stage pipeline — topic research, keyword research, content research, script outline, script writing — one stage at a time, stopping for user approval before moving to the next. Use this skill when the user wants to go from a raw topic idea to a fully written YouTube script. Triggers on any input like "let's make a video about X", "write a script for X", "start the YouTube pipeline for X", or any topic drop without a specific skill command.
 ---
 
